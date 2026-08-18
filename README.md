@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
   <!-- Profile Views -->
   <a href="https://github.com/i5l5" target="_blank">
@@ -17,8 +14,6 @@
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/i5l5?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
   </a>
 </div>
-
-
 
 <h1 align="center">🐺x-wolf</h1>
 
@@ -66,8 +61,8 @@ Always learning & improving
 
 
 <!-- Languages & Tools -->
-<h3 align="center">Languages & Tools I Work With 💠</h3>
-<p align="center">اللغات والأدوات التي أستخدمها 🧑‍💻 </p>
+<h3 align="center">Languages & Tools I Work With </h3>
+<p align="center">اللغات والأدوات التي أستخدمها </p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,debian,gitlab" /><br>
   <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,react,nodejs" /><br>
@@ -83,8 +78,8 @@ Always learning & improving
 </div>
 
 <!-- Tech Stack -->
-<h3 align="center"> 💠 Tech Stack </h3>
-<p align="center"> مجموعة التقنيات التي عملت بها 👩‍💻</p>
+<h3 align="center"> Tech Stack </h3>
+<p align="center"> مجموعة التقنيات التي عملت بها </p>
 <div align="center">
 
 <!-- Languages -->

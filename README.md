@@ -1,4 +1,3 @@
-![PixeLɑnd ◇](https://github.com/user-attachments/assets/4abcb0df-fe4b-4297-8f3a-ea1806550cad)
 
 
 
@@ -12,11 +11,11 @@
 
 
   <!-- Total Stars -->
-  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+  <a href="https://github.com/i5l5?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/1xwolf?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
   <!-- Followers -->
-  <a href="https://github.com/1xwolf?tab=followers" target="_blank">
+  <a href="https://github.com/i5l5?tab=followers" target="_blank">
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/1xwolf?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 

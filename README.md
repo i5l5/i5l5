@@ -107,6 +107,6 @@ Always learning & improving
 
 
 <p align="center">
-  This README is uniquely designed by <strong>@1xwolf</strong>
+  This README is uniquely designed by <strong>@x-wolf</strong>
 </p>
 

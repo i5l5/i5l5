@@ -75,19 +75,16 @@ Always learning & improving
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,debian,gitlab" /><br>
   <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,react,nodejs" /><br>
-
-![github-user-contribution (2)](https://github.com/user-attachments/assets/7f1b3187-6df4-4484-889f-21d1745a1fb7)
-
-  
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,express,npm,mongodb,postgresql,redis,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,githubactions,aws,vercel,terraform" /><br>
+  <img src="https://skillicons.dev/icons?i=discordjs,graphql,webpack,vite,tailwind,php,laravel,java" /><br>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,powershell,windows,ubuntu,cmake,stackoverflow" />
+</div>
   
 
 
   
 </div>
-
-
 
 <!-- Tech Stack -->
 <h3 align="center"> 💠 Tech Stack </h3>

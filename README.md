@@ -51,6 +51,7 @@ Always learning & improving
 </div>
   
 
+<img width="880" height="192" alt="github-contribution-grid-snake-dark" src="https://github.com/user-attachments/assets/8b6266d2-bb57-4ea8-87f9-de6e9960e9e3" />
 
   
 </div>
@@ -75,6 +76,7 @@ Always learning & improving
 
 
 </div>
+
 
 </div>
 

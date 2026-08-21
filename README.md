@@ -17,8 +17,6 @@
 
 <h1 align="center">x-wolf</h1>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Bots%20(Node.js)-000?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/-Web%20Development-000?style=for-the-badge&logo=html5" />
@@ -44,12 +42,12 @@ Always learning & improving
 <h3 align="center">Languages & Tools I Work With </h3>
 <p align="center">اللغات والأدوات التي أستخدمها </p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,debian,gitlab" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,react,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,express,npm,mongodb,postgresql,redis,postman" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,githubactions,aws,vercel,terraform" /><br>
-  <img src="https://skillicons.dev/icons?i=discordjs,graphql,webpack,vite,tailwind,php,laravel,java" /><br>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,powershell,windows,ubuntu,cmake,stackoverflow" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,java" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,npm,docker,nginx" /><br>
+<img src="https://skillicons.dev/icons?i=cloudflare,linux,ubuntu,debian,arch,kali" /><br>
+<img src="https://skillicons.dev/icons?i=bash,powershell,git,github,gitlab,vscode" />
+
 </div>
   
 

@@ -1,16 +1,31 @@
+
 <div align="center">
 
-  <!-- Profile Stats -->
+  <!-- Profile Views -->
+<a href="https://github.com/i5l5" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Profile%20Views-1,234-B8CDEB?style=for-the-badge&logo=github&logoColor=000000"
+    alt="Profile Views"
+  />
+</a>
 
-  <a href="https://github.com/i5l5">
-    <img src="https://komarev.com/ghpvc/?username=i5l5&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  <!-- Total Stars -->
+  <a href="https://github.com/i5l5?tab=repositories" target="_blank">
+    <img
+      src="https://img.shields.io/github/stars/i5l5?label=Total%20Stars&style=for-the-badge&color=C4BDEB&logo=github&logoColor=2E3440"
+      alt="Total Stars"
+    />
   </a>
-  <a href="https://github.com/i5l5?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/i5l5?style=for-the-badge&label=Stars&color=bf616a&logo=github" alt="Stars" />
+
+  <!-- Followers -->
+  <a href="https://github.com/i5l5?tab=followers" target="_blank">
+    <img
+      src="https://img.shields.io/github/followers/i5l5?label=Followers&style=for-the-badge&color=AEDFD6&logo=github&logoColor=2E3440"
+      alt="Followers"
+    />
   </a>
-  <a href="https://github.com/i5l5?tab=followers">
-    <img src="https://img.shields.io/github/followers/i5l5?style=for-the-badge&label=Followers&color=5e81ac&logo=github" alt="Followers" />
-  </a>
+
+</div>
 
 </div>
 
@@ -21,7 +36,6 @@
   A passionate developer eager to learn what happens behind the scenes.
 </p>
 
-<br>
 
 <!-- Areas -->
 
@@ -53,7 +67,6 @@
   <strong>Always learning & improving</strong>
 </p>
 
-<br>
 
 <!-- Languages & Tools -->
 

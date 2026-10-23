@@ -20,30 +20,6 @@
 
 <div align="center">
 
-  <!-- Profile Views -->
-  <a href="https://github.com/i5l5" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=i5l5&label=Profile%20views&color=C4BDEB&style=for-the-badge&logo=github&logoColor=2E3440" alt="Profile Views Badge" /></a>
-
-
-  <!-- Total Stars -->
-  <a href="https://github.com/i5l5?tab=repositories" target="_blank">
-    <img
-      src="https://img.shields.io/github/stars/i5l5?label=Total%20Stars&style=for-the-badge&color=B8CDEB&logo=github&logoColor=2E3440"
-      alt="Total Stars"
-    />
-  </a>
-
-  <!-- Followers -->
-  <a href="https://github.com/i5l5?tab=followers" target="_blank">
-    <img
-      src="https://img.shields.io/github/followers/i5l5?label=Followers&style=for-the-badge&color=AEDFD6&logo=github&logoColor=2E3440"
-      alt="Followers"
-    />
-  </a>
-
-</div>
-
-
 <!-- Contribution Snake -->
 
 <p align="center">

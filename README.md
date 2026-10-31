@@ -13,7 +13,7 @@
 <!-- Areas -->
 
 <p align="center">
-<img src="https://img.shields.io/badge/Software%20Development-B8CDEB?style=for-the-badge&logo=github&logoColor=2E3440" /> <img src="https://img.shields.io/badge/Backend%20Development-AFC9E8?style=for-the-badge&logo=node.js&logoColor=2E3440" /> <img src="https://img.shields.io/badge/Cybersecurity-C4BDEB?style=for-the-badge&logo=hackthebox&logoColor=2E3440" /> <img src="https://img.shields.io/badge/API%20Development-AEDFD6?style=for-the-badge&logo=postman&logoColor=2E3440" /> <img src="https://img.shields.io/badge/Systems%20%26%20Networking-B8D8E8?style=for-the-badge&logo=linux&logoColor=2E3440" /> </p>
+<img src="https://img.shields.io/badge/Software%20Development-B8CDEB?style=for-the-badge&logo=github&logoColor=2E3440" /> <img src="https://img.shields.io/badge/Backend%20Development-AFC9E8?style=for-the-badge&logo=node.js&logoColor=2E3440" /> <img src="https://img.shields.io/badge/API%20Development-AEDFD6?style=for-the-badge&logo=postman&logoColor=2E3440" /> <img src="https://img.shields.io/badge/Systems%20%26%20Networking-B8D8E8?style=for-the-badge&logo=linux&logoColor=2E3440" /> </p>
 
 <br>
 

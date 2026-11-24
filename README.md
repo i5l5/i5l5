@@ -47,7 +47,6 @@
 <!-- Languages & Tools -->
 
 <h3 align="center">Languages & Tools I Work With</h3>
-<p align="center">اللغات والأدوات التي أستخدمها</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,java,react,nextjs,nodejs,express,laravel,tailwind,mysql,mongodb,postgresql,npm,docker,nginx,cloudflare,linux,ubuntu,debian,arch,kali,bash,powershell,git,github,gitlab,vscode" />
